@@ -1,0 +1,119 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+    <meta charset="utf-8" />
+    <title>Top 5 współczesnych broni palnych, które zmieniły świat</title>
+    <meta name="description" content="Serwis prezentuje subiektywne top 5  broni palnych, które zmieniły popkulturę" />
+    <meta name="keywords" content="top 5, broń palna, broń, popkultura" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
+    <style>
+	
+	
+ #container
+    {
+        width: 1000px;
+		high: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #logo
+    {
+		
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 15px;
+		
+    }
+    #nav
+    {	
+		
+        float: left;
+        background-color: #23ABC3;
+        width: 120px;
+        min-height: 650px;
+        padding: 10px;
+    }
+    #content
+    {
+		
+        float: left;
+        padding: 20px;
+        width: 640px;
+    }
+    #ad
+    {
+		
+        float: left;
+        width: 160px;
+        min-height: 650px;
+        padding: 10px;
+        background-color: #23ABC3;
+    }
+    #footer
+    {
+		
+        clear: both;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }   
+	a.link
+	{
+	color:#000000;
+	text-decoration: none;
+	}
+	a.link1
+	{
+	color:#ffffff;
+	text-decoration: none;
+	}
+	
+    </style>
+	
+ 
+</head>
+ 
+<body>
+	<div>
+	
+	</div>
+ 
+    <div id="container">
+     
+        <div id="logo">
+        <a href="index.html" class="link1"> <h1>Top 5  broni palnych, które zmieniły popkulturę</h1></a>
+        </div>
+     
+        <div id="nav">
+          <a href="mp5.html" class="link">MP5</a> <br /><br />
+          <a href="ak47.html" class="link">AK47 </a><br /><br />
+          <a href="pmthomson.html" class="link">Pistolet maszynowy Thomson</a> <br /><br />
+          <a href="m1garand.html"class="link"> M1 Garand </a> <br /><br />
+          <a href="m1911.html"class="link"> M1911 </a> <br /><br />
+        </div>
+		<div>
+		
+		
+         
+        <div id="content">
+            <h2>M1 Garand</h2>
+			<h3>Powstaniu karabinu samopowtarzalnego przyświecała idea zwiększenia siły ognia pojedynczego żołnierza. W dalszej konsekwencji miało to doprowadzić do zmniejszenia liczebności armii. W USA idea ta trafiła na podatny grunt. Armia amerykańska została, jako pierwsza na świecie na masową skalę, uzbrojona w karabin samopowtarzalny, skonstruowany przez Johna C. Garanda. Przyjęto go na uzbrojenie w 1936 pod oznaczeniem wojskowym Rifle, Caliber .30, M1 (karabin M1 kaliber 30). Od nazwiska konstruktora znany jest jednak powszechnie jako Garand.<h3><br />
+			<center><img src="./images/garand.jpg" width=600px></center>
+            
+        </div>
+         
+        <div id="ad">
+        </div>
+         
+        <div id="footer">
+              Patryk M &copy; <a href="https://youtu.be/dQw4w9WgXcQ" class="link1"> Wszelkie prawa zastrzeżone</a>
+        </div>
+     
+    </div>
+ 
+</body>
+</html>
